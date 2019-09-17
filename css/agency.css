@@ -178,7 +178,7 @@ header.masthead {
   color: black;
   background-image: url("../img/logos/logo_Espaço_Fundo.jpg");
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
   background-size: auto;
 }
